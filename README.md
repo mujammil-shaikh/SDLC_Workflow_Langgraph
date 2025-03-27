@@ -1,6 +1,3 @@
-# SDLC_Workflow_Langgraph
-LLMs via LangChain SDLC workflow
-
 ---
 title: SDLC_Workflow_Langgraph
 emoji: 💻
